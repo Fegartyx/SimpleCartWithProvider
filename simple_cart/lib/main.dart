@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:simple_cart/data_view.dart';
 import 'package:simple_cart/model/cart_model.dart';
-import 'package:simple_cart/model/list_data.dart';
 
 void main() {
   runApp(const MyApp());
